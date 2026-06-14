@@ -1,2 +1,2 @@
-# 2026-python-class-offline
+# smarthub-2026-python-class-offline
 learning how to use python 
